@@ -41,8 +41,9 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 
 * [api.Netdev](http://fb.netdev.be/) 
 * [captcha.Netdev](http://web3.netdev.be/) 
-* [gcs-netdev.be](https://netdev.be)
-* [github.io-netdev.be](https://gh.netdev.be)
+* [gcs-Netdev](https://netdev.be)
+* [github.io-Netdev](https://gh.netdev.be)
+* self [github.md-Netdev](https://v3.netdev.be)
 
 
 ![Yellow Duck](/assets/img/avatar-icon.png 'avatar')
