@@ -1,8 +1,8 @@
 
 
-## Hello, I’m Jerome,  
+### Hello, I’m Jerome,  
 
-### I have the following qualities:
+#### I have the following qualities:
 
 - I meet
 - I bike 
@@ -11,11 +11,11 @@
 - I rock a great beard
 - I'm extremely loyal to my family
 
-### What else do you need to know?
+#### What else do you need to know?
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
-### Stuff I work on
+#### Stuff I work on
 
 I build trusted relationships with people by listening to their needs and meet them where they are in their digital transformation.
 
@@ -31,13 +31,13 @@ I'm a Cloud Architect with Google's [Cloud](http://cloud.google.com) team. I mee
 
 ![Blue Duck](/assets/img/logo.jpg 'Logo')
 
-### About me
+#### About me
 
 I’m a passionate technologist with a recognized  customer centric attitude and almost twenty years of working experience in IT.  I always strive to provide the best solutions to my customers taking into account their needs and expectations with plenty successful deals concluded over that period.  In my role, I’ve been  designing and developing architectures for on-premise and cloud based systems to  solve large global organizations business requirements.  I have a natural leadership that expresses best when organizing cross functional teams around concrete projects. 
 
 ![Yellow Duck](/assets/img/logo.png 'Logo')
 
-## External Sites
+### External Sites
 
 * [api.Netdev](http://fb.netdev.be/) Not updated
 * [captcha.Netdev](http://web3.netdev.be/) Not updated
@@ -53,19 +53,19 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 
 
 
-## Work Experience
+### Work Experience
 
 
-### Customer Engineer @ Google; September  2018 - Present
+#### Customer Engineer @ Google; September  2018 - Present
 * Cloud  Architect for Belgian Federal and Regional Governments, EU institutions and NATO 
 
-### Systems Engineer @ Cisco; June  2006 - August 2018
+#### Systems Engineer @ Cisco; June  2006 - August 2018
 * Since 2014: Solutions Architect for EU institutions and NATO.  In this role I have achieved deep customer intimacy and built many close relationships with key stakeholders. I acted there  as the key technical influencer for numerous multi-millions deals. 
 * From 2010 to 2014: Technical Lead for the Collaboration team with major influence on key deals across large enterprise and public sector verticals. 
 * From 2007 to 2010: Generalist Systems Engineer for public sector, handling both federal, regional and local government as well as healthcare and education customers. 
 * From 2006 to 2007: Associate Systems Engineer; traineeship with intense technical and soft skills training followed by field trips offering  various real-life experience. 
 
-### IT manager @ Missil Petroleum; September 2002 - June 2006
+#### IT manager @ Missil Petroleum; September 2002 - June 2006
 * Responsible for the intranet and extranet network and IT operations:
     * Implemented ERP, Mail and many other Intranet systems (Linux)
     * Designed and maintained networks: LAN, WAN, VPN's; 2 HQ and 35 branches. 
@@ -74,7 +74,7 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 * designed the new company logo
 
 
-## Hobbies 
+### Hobbies 
 Cyclist, Occasional snowboarder, Basketball for almost 20 years, Field hockey in Gentlemen league since 2017
 
 ![White Duck](/assets/img/author.jpg 'author')
