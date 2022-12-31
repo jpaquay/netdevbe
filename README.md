@@ -24,7 +24,7 @@ const startup =
     {build: "whats_next"
 }
 ```
-I'm a Cloud Architect with Google's [Cloud](http://cloud.google.com) team. I meet innovative teams and together we discuss their future with Google Cloud Platform, ensuring that tough engineering problems are solved, and we elevate to the next step in digitalization.
+I'm a Cloud Architect with Google's [Cloud](https://cloud.google.com) team. I meet innovative teams and together we discuss their future with Google Cloud Platform, ensuring that tough engineering problems are solved, and we elevate to the next step in digitalization.
 
 ### I was born and raised in [Brussels, Belgium](https://goo.gl/maps/Xhy4aBu1WYrbBHe97)
 
@@ -39,8 +39,8 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 
 ### External Sites (Not updated)
 
-* [api.Netdev](http://fb.netdev.be/) 
-* [captcha.Netdev](http://web3.netdev.be/) 
+* [api.Netdev](https://fb.netdev.be/) 
+* [captcha.Netdev](https://web3.netdev.be/) 
 * [gcs-Netdev](https://netdev.be)
 * [github.io-Netdev](https://gh.netdev.be)
 * self [github.md-Netdev](https://v3.netdev.be)
