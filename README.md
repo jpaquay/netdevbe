@@ -45,19 +45,7 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 * [github.io-Netdev](https://gh.netdev.be)
 * self [github.md-Netdev](https://v3.netdev.be)
 
-
-![Yellow Duck](/assets/img/author.jpg 'avatar')
-
-
-
-
-
-
-
-
-
 ### Work Experience
-
 
 #### Customer Engineer @ Google; September  2018 - Present
 * Cloud  Architect for Belgian Federal and Regional Governments, EU institutions and NATO 
@@ -80,5 +68,4 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 ### Hobbies 
 Cyclist, Occasional snowboarder, Basketball for almost 20 years, Field hockey in Gentlemen league since 2017
 
-![White Duck](/assets/img/avatar.jpg 'author')
 
