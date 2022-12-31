@@ -46,7 +46,7 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 * self [github.md-Netdev](https://v3.netdev.be)
 
 
-![Yellow Duck](/assets/img/avatar-icon.png 'avatar')
+![Yellow Duck](/assets/img/author.png 'avatar')
 
 
 
@@ -80,5 +80,5 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 ### Hobbies 
 Cyclist, Occasional snowboarder, Basketball for almost 20 years, Field hockey in Gentlemen league since 2017
 
-![White Duck](/assets/img/author.jpg 'author')
+![White Duck](/assets/img/avatar.jpg 'author')
 
