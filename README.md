@@ -37,10 +37,12 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 
 ![Yellow Duck](/assets/img/logo.png 'Logo')
 
-### External Sites
+### External Sites (Not updated)
 
-* [api.Netdev](http://fb.netdev.be/) Not updated
-* [captcha.Netdev](http://web3.netdev.be/) Not updated
+* [api.Netdev](http://fb.netdev.be/) 
+* [captcha.Netdev](http://web3.netdev.be/) 
+* [gcs-netdev.be](https://netdev.be)
+* [github.io-netdev.be](https://gh.netdev.be)
 
 
 ![Yellow Duck](/assets/img/avatar-icon.png 'avatar')
@@ -79,4 +81,3 @@ Cyclist, Occasional snowboarder, Basketball for almost 20 years, Field hockey in
 
 ![White Duck](/assets/img/author.jpg 'author')
 
-## [https-netdev.be](https://v3.netdev.be)
