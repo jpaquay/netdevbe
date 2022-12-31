@@ -1,8 +1,8 @@
-# [netdev.be](https://v3.netdev.be)
+### [https-netdev.be](https://v3.netdev.be)
 
-# Hello, I’m Jerome,  
+## Hello, I’m Jerome,  
 
-**I have the following qualities:**
+### I have the following qualities:
 
 - I meet
 - I bike 
@@ -11,20 +11,9 @@
 - I rock a great beard
 - I'm extremely loyal to my family
 
-#### What else do you need to know?
+### What else do you need to know?
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
-
-#### About me
-
-I’m a passionate technologist with a recognized  customer centric attitude and almost twenty years of working experience in IT.  I always strive to provide the best solutions to my customers taking into account their needs and expectations with plenty successful deals concluded over that period.  In my role, I’ve been  designing and developing architectures for on-premise and cloud based systems to  solve large global organizations business requirements.  I have a natural leadership that expresses best when organizing cross functional teams around concrete projects. 
-
-
-### I was born and raised in [Brussels, Belgium](https://goo.gl/maps/Xhy4aBu1WYrbBHe97)
-
-This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. 
-
-![Blue Duck](/assets/img/logo.jpg 'Logo')
 
 ### Stuff I work on
 
@@ -36,6 +25,15 @@ const startup =
 }
 ```
 I'm a Cloud Architect with Google's [Cloud](http://cloud.google.com) team. I meet innovative teams and together we discuss their future with Google Cloud Platform, ensuring that tough engineering problems are solved, and we elevate to the next step in digitalization.
+
+### I was born and raised in [Brussels, Belgium](https://goo.gl/maps/Xhy4aBu1WYrbBHe97)
+
+
+![Blue Duck](/assets/img/logo.jpg 'Logo')
+
+### About me
+
+I’m a passionate technologist with a recognized  customer centric attitude and almost twenty years of working experience in IT.  I always strive to provide the best solutions to my customers taking into account their needs and expectations with plenty successful deals concluded over that period.  In my role, I’ve been  designing and developing architectures for on-premise and cloud based systems to  solve large global organizations business requirements.  I have a natural leadership that expresses best when organizing cross functional teams around concrete projects. 
 
 ![Yellow Duck](/assets/img/logo.png 'Logo')
 
@@ -80,3 +78,5 @@ I'm a Cloud Architect with Google's [Cloud](http://cloud.google.com) team. I mee
 Cyclist, Occasional snowboarder, Basketball for almost 20 years, Field hockey in Gentlemen league since 2017
 
 ![White Duck](/assets/img/author.jpg 'author')
+
+## [https-netdev.be](https://v3.netdev.be)
