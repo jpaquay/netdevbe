@@ -11,16 +11,16 @@
 - I rock a great beard
 - I'm extremely loyal to my family
 
-#### What else do you need?
+#### What else do you need to know?
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
 
-### I'm born and raised in [Brussels, Belgium](https://goo.gl/maps/Xhy4aBu1WYrbBHe97)
+### I was born and raised in [Brussels, Belgium](https://goo.gl/maps/Xhy4aBu1WYrbBHe97)
 
 This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. 
 
-![Yellow Duck](/assets/img/logo.jpg 'Logo')
+![Blue Duck](/assets/img/logo.jpg 'Logo')
 
 ### Stuff I work on
 
@@ -33,13 +33,15 @@ const startup =
 ```
 I'm a Cloud Architect with Google's [Cloud](http://cloud.google.com) team. I meet innovative teams and together we discuss their future with Google Cloud Platform, ensuring that tough engineering problems are solved, and we elevate to the next step in digitalization.
 
+![Yellow Duck](/assets/img/logo.png 'Logo')
+
 ## External Sites
 
 * [api.Netdev](http://fb.netdev.be/) Not updated
 * [captcha.Netdev](http://web3.netdev.be/) Not updated
 
 
-![Yellow Duck](/assets/img/avatar.jpg 'avatar')
+![Yellow Duck](/assets/img/avatar-icon.png 'avatar')
 
 
 
@@ -93,3 +95,5 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 # Hobbies 
 
 Played basketball for almost 20 years and started playing field hockey in Gentlemen league in 2017
+
+![White Duck](/assets/img/author.jpg 'author')
