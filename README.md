@@ -46,7 +46,7 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 * self [github.md-Netdev](https://v3.netdev.be)
 
 
-![Yellow Duck](/assets/img/author.png 'avatar')
+![Yellow Duck](/assets/img/author.jpg 'avatar')
 
 
 
