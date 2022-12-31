@@ -46,12 +46,6 @@ I'm a Cloud Architect with Google's [Cloud](http://cloud.google.com) team. I mee
 
 
 
-# Hello, I’m Jerome,  
-
-I’m a 39 years old dad of three from  Brussels
-
-Tel: +32 485 469 332,  [jpaquay@gmail.com](mailto:jpaquay@gmail.com), [https://www.linkedin.com/in/jeromepaquay](https://www.linkedin.com/in/jeromepaquay/)  
-
 
 # About me
 
@@ -67,15 +61,13 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 ### Customer Engineer @ Google 
 
 
-## Cloud  Architect for EU institutions, NATO, Belgian Federal and Brussels Region Governments.
+* Cloud  Architect for Belgian Federal and Regional Governments, EU institutions and NATO 
 
 
 ## June  2006 - August 2018
 
 
 ### Systems Engineer @ Cisco 
-
-
 
 * Since 2014: Solutions Architect for EU institutions and NATO.  In this role I have achieved deep customer intimacy and built many close relationships with key stakeholders. I acted there  as the key technical influencer for numerous multi-millions deals. 
 * From 2010 to 2014: Technical Lead for the Collaboration team with major influence on key deals across large enterprise and public sector verticals. 
