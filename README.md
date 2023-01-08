@@ -67,7 +67,7 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 Cyclist, Occasional snowboarder, Basketball for almost 20 years, Field hockey in Gentlemen league since 2017
 
 <li class="list-inline-item">
-    <a href="https://twitter.com/jeromepaquay" title="Twitter">
+    <a href="https://twitter.com/jpaquay" title="Twitter">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
