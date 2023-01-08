@@ -50,7 +50,7 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 * Cloud  Architect for Belgian Federal and Regional Governments, EU institutions and NATO 
 
 #### Systems Engineer @ Cisco; June  2006 - August 2018
-* Since 2014: Solutions Architect for EU institutions and NATO.  In this role I have achieved deep customer intimacy and built many close relationships with key stakeholders. I acted there  as the key technical influencer for numerous multi-millions deals. 
+* From 2014 to 2018: Solutions Architect for EU institutions and NATO.  In this role I have achieved deep customer intimacy and built many close relationships with key stakeholders. I acted there  as the key technical influencer for numerous multi-millions deals. 
 * From 2010 to 2014: Technical Lead for the Collaboration team with major influence on key deals across large enterprise and public sector verticals. 
 * From 2007 to 2010: Generalist Systems Engineer for public sector, handling both federal, regional and local government as well as healthcare and education customers. 
 * From 2006 to 2007: Associate Systems Engineer; traineeship with intense technical and soft skills training followed by field trips offering  various real-life experience. 
@@ -63,8 +63,23 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 * Worked on the company communications strategy; defined new channels of communications; created and maintained company website's www.missil.be. 
 * designed the new company logo
 
-
 ### Hobbies 
 Cyclist, Occasional snowboarder, Basketball for almost 20 years, Field hockey in Gentlemen league since 2017
 
-
+<li class="list-inline-item">
+    <a href="https://twitter.com/jeromepaquay" title="Twitter">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Twitter</span>
+   </a>
+  </li><li class="list-inline-item">
+    <a href="https://linkedin.com/in/jeromepaquay" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+  </li>
