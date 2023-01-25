@@ -2,7 +2,7 @@
 
 ### Hello, I’m Jerome,  
 
-#### I have the following qualities:
+#### I have the following attributes:
 
 - I bike
 - I meet 
