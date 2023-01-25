@@ -11,7 +11,7 @@
 - I laugh 
 - I code 
 - I rock a great beard
-- I'm a handsome genius 
+- I'm a handsome genius &#8482;
 - I'm extremely loyal to my family
 
 #### What else do you need to know?
