@@ -13,6 +13,7 @@
 - I rock a great beard
 - I'm a handsome genius &#8482;
 - I'm extremely loyal to my family
+- I succeed the Completely Automated Public Turing test to tell Computers and Humans Apart
 
 
 ### What else do you need?
