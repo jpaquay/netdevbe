@@ -51,13 +51,13 @@ I’m a passionate technologist with a recognized  customer centric attitude and
 * [github.io](https://blog.netdev.be)
 * self [github.md](https://v3.netdev.be)
 
-### Work 
+### Work Experience
 
 #### Customer Engineer @ Google; September  2018 - Present
-* Cloud  Architect for Belgian Federal and Regional Governments, EU institutions and NATO 
+* Cloud  Architect for the public sector
 
 #### Systems Engineer @ Cisco; June  2006 - August 2018
-* Solutions Architect for EU institutions and NATO
+* Solutions Architect for EU institutions, NATO and Belgian Governments
 
 #### IT manager @ Missil Petroleum; September 2002 - June 2006
 * Responsible for IT operations
