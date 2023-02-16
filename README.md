@@ -64,7 +64,7 @@ literally hakuna: "there is no/there are no"; matata: "worries"
 ### Work Experience
 
 #### Customer Engineer @ Google; September  2018 - Present
-* Cloud  Architect for the public sector
+* Cloud  Architect for EU public sector
 
 #### Systems Engineer @ Cisco; June  2006 - August 2018
 * Solutions Architect for EU institutions, NATO and Belgian Governments
@@ -77,8 +77,10 @@ literally hakuna: "there is no/there are no"; matata: "worries"
 * Worked on the company communications strategy; defined new channels of communications; created and maintained company website's www.missil.be. 
 * designed the new company logo
 
-### sports 
-Cyclist, Occasional snowboarder, Basketball for almost 20 years, Field hockey in Gentlemen league since 2017
+### real life 
+3 kids, cyclist, snowboarder, basketball, field hockey
+
+
 
 ### stuff
 
