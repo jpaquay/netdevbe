@@ -1,17 +1,6 @@
 
----
-layout: page
-title: About me
-subtitle: Why you'd want to date me
-cover-img: /assets/img/author.jpg
-thumbnail-img: /assets/img/hello_world.jpg
-share-img: /assets/img/hello_world.jpg
-tags: [about, story]
-readtime: true
----
 
-
-# .
+# 
 
 ## Hello, I’m Jerome
 
