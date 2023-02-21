@@ -48,7 +48,7 @@ I’m a passionate technologist with a recognized customer centric attitude work
 {: .box-error}
 literally `hakuna` there are no; : `matata` worries
 
-![Yellow Duck](/assets/img/einstein.jpg 'avatar'){: .mx-auto.d-block :}
+![Yellow Duck](/assets/img/einstein.jpg 'avatar')
 
 ### Work Experience
 
@@ -63,6 +63,11 @@ literally `hakuna` there are no; : `matata` worries
 #### IT manager @ Missil Petroleum; September 2002 - June 2006
 
 - Responsible for IT operations
+  - Implemented ERP, Mail and many other Intranet systems (Linux)
+  - Designed and maintained networks: LAN, WAN, VPN's; 2 HQ and 35 branches. 
+  - Implemented smart-metering solution for the  gas-stations network and main HQ stock. 
+  - Worked on the company communications strategy; defined new channels of communications; created and maintained company website's www.missil.be. 
+  - designed the new company logo
 
 #### garage mechanics
 - [gcs](https://netdev.be)
