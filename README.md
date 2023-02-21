@@ -48,7 +48,7 @@ I’m a passionate technologist with a recognized customer centric attitude work
 {: .box-error}
 literally `hakuna` there are no; : `matata` worries
 
-![Yellow Duck](/assets/img/einstein.jpg 'avatar')
+![Yellow Duck](/assets/img/einstein.jpg 'avatar'){: .mx-auto.d-block :}
 
 ### Work Experience
 
