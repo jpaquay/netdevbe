@@ -37,7 +37,7 @@ I'm Enterprise Architect with Google's [Cloud](https://cloud.google.com) team. I
 {: .box-warning}
 `Hakuna matata` is a Swahili phrase, meaning `take it easy`
 
-#### Cybersecurity for the Quantum Era
+## Cybersecurity for the Quantum Era
 
 As we enter the Quantum Era, cybersecurity threats are evolving. Quantum computers are expected to soon break public-key cryptography, putting your sensitive data at risk. To meet these current and emerging threats, it’s vital that your organization become [crypto-agile](https://cloud.google.com/blog/products/identity-security/how-google-is-preparing-for-a-post-quantum-world)
 
