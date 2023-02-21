@@ -21,9 +21,9 @@ This is an example author bio, and although there's no stock photo of a dog here
 
 ![Yellow Duck](/assets/img/logo.png 'Logo')
 
-## Stuff I do
+## Things I do
 
-I build trusted relationships with people by listening to their needs and meet them where they are in their digital transformation.
+I build trusted relationships with people by listening to their needs and meet them where they are in their transformation.
 
 ```javascript
 var innovate = function(x) {
