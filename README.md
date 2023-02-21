@@ -1,10 +1,5 @@
 
-
-# 
-
-## Hello, I’m Jerome
-
-### I have the following attributes
+### Hello, I’m Jerome, I have the following attributes
 
 - I bike
 - I meet
@@ -44,7 +39,6 @@ I'm a Cloud Architect with Google's [Cloud](https://cloud.google.com) team. I me
 
 I’m a passionate technologist with a recognized customer centric attitude working for over twenty years in IT.  I strive to provide my teams with the best solutions taking into account their needs and expectations. This produced xx successful projects to launch and land.  In my role, I’ve been  designing and developing architectures for on-premise and cloud based systems to solve large global organizations business requirements.  I have a natural leadership that expresses best when organizing cross functional teams around concrete goals.
 
-
 ### "Hakuna matata" is a Swahili phrase, meaning "take it easy"
 
 ## Cybersecurity for the Quantum Era
@@ -81,7 +75,7 @@ As we enter the Quantum Era, cybersecurity threats are evolving. Quantum compute
 - Worked on the company communications strategy; defined new channels of communications; created and maintained company website's www.missil.be.
 - designed the new company logo
 
-### real life 
+### real life
 
 3 kids, cyclist, snowboarder, basketball, field hockey
 
@@ -89,5 +83,3 @@ As we enter the Quantum Era, cybersecurity threats are evolving. Quantum compute
 
 - [Twitter](https://twitter.com/jpaquay)
 - [LinkedIn](https://linkedin.com/in/jeromepaquay)
-
-
